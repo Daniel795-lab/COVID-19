@@ -8,3 +8,6 @@ Este es un repositorio que almacena datos COVID-19 proporcionados por la Univers
 
 ## Casos fallecidos en cuatro paises al 9 de mayo de 2020 
 ![](figures/casos_confirmados.jpg)
+---
+## Casos acumulados top 5 Latinoamerica
+![](figures/latam_top5_10082020.jpg)
